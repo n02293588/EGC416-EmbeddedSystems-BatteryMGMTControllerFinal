@@ -1,0 +1,1 @@
+Using a Freescale HCS12, my partner and I created a basic battery management system complete with a charging/discharging circuit. This is the code for the project, written in CodeWarrior
